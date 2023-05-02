@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurante>
+  <categoria nombre="Primero">
+    <plato>
+      <nombre>Sopa de Tallarines</nombre>
+      <descripcion>Sopa de tallarines con carne y verduras</descripcion>
+	 <caracteristicas>
+		<sub> Sin gluten</sub>
+		<sub> Con Carne </sub>
+	 </caracteristicas>
+      <precio>6.95</precio>
+    </plato>
+    <plato>
+      <nombre>Arroz frito</nombre>
+      <descripcion>Arroz frito 3 delicias, tortilla , jamon , pesols</descripcion>
+	  <caracteristicas>
+		<sub> Sin gluten</sub>
+		<sub> Con Carne </sub>
+	  </caracteristicas>
+      <precio>6.50</precio>
+    </plato>
+	<plato>
+      <nombre>Tallarines fritos </nombre>
+      <descripcion>Tallarines fritos con 3 delicias , ternera, pollo, tortilla</descripcion>
+	 <caracteristicas>
+		<sub> Sin gluten</sub>
+		<sub> Con Carne </sub>
+	 </caracteristicas>
+      <precio>4.50</precio>
+    </plato>
+	<plato>
+      <nombre>Sopa de cebolla</nombre>
+      <descripcion>Cebolla caramelizada, caldo de carne, queso gruyere, pan tostado</descripcion>
+	  <caracteristicas> 
+		<sub> Sin gluten</sub>
+		<sub> Con Carne </sub>
+	  </caracteristicas>
+      <precio>3.50</precio>
+    </plato>
+	<plato>
+      <nombre>Rollito de primavera</nombre>
+      <descripcion>cuatro rollitos de primavera con salsa especial</descripcion>
+	  <caracteristicas>
+		  <sub> Sin gluten</sub>
+		  <sub> Sin Carne </sub>
+	  </caracteristicas>
+      <precio>3.50</precio>
+    </plato>
+  </categoria>
+  <categoria nombre="Segundo">
+    <plato>
+      <nombre>Cerdo agridulce</nombre>
+      <descripcion>Cerdo con salsa agridulce al punto </descripcion>
+	  <caracteristicas>
+		<sub> Con gluten</sub>
+		<sub> Con Carne </sub>
+	  </caracteristicas>
+      <precio>5.50</precio>
+    </plato>
+    <plato>
+      <nombre>Pollo con Almendras</nombre>
+      <descripcion>Pollo con Almendras con salsa BBQ y Oregano</descripcion>
+	  <caracteristicas>
+		<sub> Con gluten</sub>
+		<sub> Con Carne </sub>
+	  </caracteristicas>
+      <precio>4.95</precio>
+    </plato>
+	<plato>
+      <nombre>Ternera con pimiento verde</nombre>
+      <descripcion>Ternera con pimiento verde</descripcion>
+	  <caracteristicas>
+		<sub> Con gluten</sub>
+		<sub> Con Carne </sub>
+	  </caracteristicas>
+      <precio>3.95</precio>
+    </plato>
+	<plato>
+      <nombre>Pasta a la bolognesa</nombre>
+      <descripcion>Salsa de tomate, carne molida, cebolla, ajo, spaghetti</descripcion>
+	  <caracteristicas>
+		<sub> Con gluten</sub>
+		<sub> Con Carne </sub>
+	  </caracteristicas>
+      <precio>4.95</precio>
+	<plato>
+      <nombre>Ensalada</nombre>
+      <descripcion>Ojas verdes, col, zanahoria , salsa especial</descripcion>
+	  <caracteristicas>
+		<sub> Sin gluten</sub>
+		<sub> Vegano </sub>
+	  </caracteristicas>
+      <precio>2.50</precio>
+    </plato>
+    </plato>
+  </categoria>
+  <categoria nombre="Postres">
+    <plato>
+      <nombre>Tarta de manzana</nombre>
+      <descripcion>Masa brisa, manzanas caramelizadas, canela, crema batida</descripcion>
+	  <caracteristicas>
+		<sub>Con Gluten</sub>
+	  </caracteristicas>
+      <precio>7.95</precio>
+    </plato>
+    <plato>
+      <nombre>Helado de vainilla</nombre>
+      <descripcion>Crema de leche, azúcar, extracto de vainilla</descripcion>
+	  <caracteristicas>
+		<sub>Lacteo</sub>
+		<sub> Sin Gluten </sub>
+	  </caracteristicas>
+      <precio>4.50</precio>
+    </plato>
+  </categoria>
+  <categoria nombre="Bebidas">
+    <plato>
+      <nombre>Lata</nombre>
+      <descripcion>Coca cola, agua en lata, fanta</descripcion>
+	  <caracteristicas>
+		<sub> Fria </sub>
+	  </caracteristicas>
+      <precio>2.00</precio>
+    </plato>
+    <plato>
+      <nombre>Botella</nombre>
+      <descripcion>Vino, Saque de la rioja, priorat</descripcion>
+	  <caracteristicas>
+		<sub> Con gluten</sub>
+		<sub> Con Carne </sub>
+	  </caracteristicas>
+      <precio>2.00</precio>
+    </plato>
+  </categoria>
+</restaurante>

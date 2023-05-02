@@ -1,0 +1,70 @@
+* {
+  color: #003044;
+}
+
+h1 {
+	color: black;
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("fondo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.sub {
+	color: green;
+	font-family: cursive;
+	font-size: 12px;
+	white-space: nowrap;
+}
+
+header {
+  background-color: #f6550e;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 2em;
+}
+
+.categoria {
+  width: calc(25% - 1em);
+  margin-bottom: 2em;
+}
+
+.categoria h2 {
+  text-align: center;
+  margin: 0;
+  color: black;
+}
+
+.plato {
+  border: 1px solid #CCC;
+  padding: 1em;
+  margin-top: 1em;
+}
+
+.plato h3 {
+  margin: 0;
+}
+
+.descripcion {
+  font-size: 0.9em;
+}
+
+.precio {
+  text-align: right;
+  font-weight: bold;
+  font-size: 1.2em;
+}
